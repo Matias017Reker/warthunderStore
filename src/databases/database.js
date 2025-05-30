@@ -1,0 +1,1 @@
+export const baseURL = "https://warthunderstore-default-rtdb.firebaseio.com/"
